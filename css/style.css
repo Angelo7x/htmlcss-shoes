@@ -42,7 +42,8 @@ h2 {
 
 h2, .h2green {
     text-align: center;
-    width: 100%;
-    width: 260px;
-    
+    width: 60%;
+    border: 1px solid black;
+    margin: 0 auto;
 }
+
