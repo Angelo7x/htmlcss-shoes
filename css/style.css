@@ -39,3 +39,10 @@ h2 {
 .h2green {
     color: green;
 }
+
+h2, .h2green {
+    text-align: center;
+    width: 100%;
+    width: 260px;
+    
+}
