@@ -6,6 +6,7 @@
 
 section {
     height: 100vh;
+    position: relative;
 }
 
 .bg-red {
@@ -18,4 +19,23 @@ section {
 
 .bg-yellow {
     background-color: yellow;
+}
+
+.img-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.img-text img {
+    height: 400px;
+}
+
+h2 {
+    color: yellow;
+}
+
+.h2green {
+    color: green;
 }
